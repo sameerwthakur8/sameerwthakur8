@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sameer Thakur
+- 👀 I’m interested in React, React-Native and Flutter development
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on few of my freelance projects
